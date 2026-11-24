@@ -1,0 +1,5 @@
+Query
+http://localhost:3000/teste?nome=Max&sobrenome=Ferreira
+
+Params:
+http://localhost:3000/teste/1010?nome=Max&sobrenome=Ferreira
